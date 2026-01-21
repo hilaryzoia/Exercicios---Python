@@ -1,7 +1,7 @@
 # The double, triple and root of a number
 
-n = int(input('Digite um número: '))
+n = int(input('Enter a number: '))
 d = n * 2
 t = n * 3
 r = n ** 2
-print('O dobro de {} é {}, \nO triplo de é {}, \nA raiz quadrada é {}.'.format(n,d,t,r))
+print('The double of the {} is {}, \nThe triple is {}, \nThe square root is {}.'.format(n,d,t,r))
